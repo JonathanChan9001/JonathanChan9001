@@ -39,10 +39,10 @@ I have a deep interest in the architectures that power modern AI — particularl
 
 ## 📂 Featured Projects
 
-### 🧠 [Multimodal Depression Detection (Thesis)](https://github.com/jonathanchan/thesis)
+### 🧠 [Multimodal Depression Detection (Thesis)](https://github.com/JonathanChan9001/Multimodal-Machine-Learning-and-Data-Analysis-Framework-for-Depression-Detection)
 Multimodal fusion framework integrating text, audio, and video for depression detection — achieving **92% balanced accuracy** using PyTorch and HuggingFace Transformers.
 
-### 🌏 [AQI & Mortality Analysis in Australia](https://github.com/jonathanchan/AQI-Mortality-Analysis-Australia)
+### 🌏 [AQI & Mortality Analysis in Australia](https://github.com/JonathanChan9001/AQI-Mortality-Analysis-Australia)
 Interactive R Shiny dashboard analysing the impact of air quality on respiratory disease mortality across ACT and NSW (2023). Features spatial mapping, seasonal trend analysis, and comparative disease mortality visualisation.
 
 ---
