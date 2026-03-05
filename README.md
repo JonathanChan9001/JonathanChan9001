@@ -42,6 +42,9 @@ I have a deep interest in the architectures that power modern AI — particularl
 ### 🧠 [Multimodal Depression Detection (Thesis)](https://github.com/JonathanChan9001/Multimodal-Machine-Learning-and-Data-Analysis-Framework-for-Depression-Detection)
 Multimodal fusion framework integrating text, audio, and video for depression detection — achieving **92% balanced accuracy** using PyTorch and HuggingFace Transformers.
 
+### 🛡️ [RAG-Enhanced Safe Latent Diffusion with t-SNE Analysis (RAG-SLD)](https://github.com/JonathanChan9001/t-SNE-RAG-Enhanced-SafeLatentDiffusion)
+A safety pipeline combining **Retrieval-Augmented Generation (RAG)** with **Safe Latent Diffusion (SLD)** to defend text-to-image generation against adversarial and harmful prompts. Features a ChromaDB vector store, 3-tier similarity-based decision engine, obfuscation robustness testing, and t-SNE visualisation of semantic embeddings.
+
 ### 🌏 [AQI & Mortality Analysis in Australia](https://github.com/JonathanChan9001/AQI-Mortality-Analysis-Australia)
 Interactive R Shiny dashboard analysing the impact of air quality on respiratory disease mortality across ACT and NSW (2023). Features spatial mapping, seasonal trend analysis, and comparative disease mortality visualisation.
 
